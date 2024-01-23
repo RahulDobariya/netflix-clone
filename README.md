@@ -1,5 +1,5 @@
 # netflix_clone
 
 
-https://github.com/himanshugoyal77/flutter-netflix-clone/assets/92782099/399fa2ae-dd0a-46ab-bafb-64c3fcd4def2
+https://github.com/RahulDobariya/netflix-clone/assets/122685622/6d21c641-a41a-4298-8e99-21ce554d88bc
 
